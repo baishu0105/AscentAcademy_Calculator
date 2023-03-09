@@ -21,6 +21,8 @@ This is a simple calculator web application that allows users to perform basic a
 4. Click the "=" button to get the result of the calculation.
 5. If you want to start a new calculation, click the "C" button to clear the input field.And to erase the last input,click the "b" button.
 
+## A glance of the calculator
+![Screenshot 2023-03-09 212919](https://user-images.githubusercontent.com/108140716/224082126-ce456e79-553a-4c24-97e2-9f279854316e.jpg)
 
 ## Technologies used
 
