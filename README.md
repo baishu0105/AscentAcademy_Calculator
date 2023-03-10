@@ -30,6 +30,9 @@ This is a simple calculator web application that allows users to perform basic a
  - CSS
  - JavaScript
 
+##Link for the calculator
+<a href="https://calculator-web09.netlify.app/">calculator</a>
+
 ## Future improvements
 
  - Add more advanced mathematical functions such as square root,
